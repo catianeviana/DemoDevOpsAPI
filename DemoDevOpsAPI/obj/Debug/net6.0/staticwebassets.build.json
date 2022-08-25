@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OI0S/Y0UC3QKbmipeAkIxCAPS13tluc6+xwCmL3+Jhw=",
+  "Source": "DemoDevOpsAPI",
+  "BasePath": "_content/DemoDevOpsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

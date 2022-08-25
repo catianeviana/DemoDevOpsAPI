@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJasQl2UlGUZSrEXOx3sSKDvNnmVhpu8RgrG70FksO/SuEEDW2rebgMOWsy7IL0+076cPWXUT2vG8dcoJSbhMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Catiane\\source\\repos\\ApiFull\\web-api-demo-ci-cd\\web-api-demo-ci-cd\\DemoDevOpsAPI\\DemoDevOpsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catiane\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Catiane\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Catiane\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Catiane\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Catiane\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Catiane\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
