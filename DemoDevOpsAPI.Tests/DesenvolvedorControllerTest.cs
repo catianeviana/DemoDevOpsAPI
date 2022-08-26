@@ -35,7 +35,7 @@ namespace DemoDevOpsAPI.Tests
             var okResult = _controller.Get().Result as OkObjectResult;
             // Assert
             var items = Assert.IsType<List<Desenvolvedor>>(okResult.Value);
-            Assert.Equal(items.Count, items.Count);
+            Assert.Equal(1, 1);
         }
     }
 }
